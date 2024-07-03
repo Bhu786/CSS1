@@ -1,0 +1,38 @@
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+    font-style: italic;
+}
+
+.underline{
+    text-decoration: underline;
+    font-style: oblique;
+}
+
+.highlighted{
+    background-color: yellow;
+}
+
+.last{
+    font-style: italic;
+    font-weight: 1000;
+    color:rgb(165,42,138) ;
+}
+
+.smallfontsize{
+    font-size: small;
+    color:rgb(165,42,138) ;
+}
+
+.big{
+    font-size: large;
+    color:rgb(165,42,138) ;
+}
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    
+}
